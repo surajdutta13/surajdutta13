@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajdutta13
 - 👀 I’m interested in Android
-- 🌱 I’m currently Flutter
+- 🌱 I’m currently Learning Flutter
 - 📫 How to reach me : @9830570769
 
 <!---
